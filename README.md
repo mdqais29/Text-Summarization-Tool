@@ -12,10 +12,7 @@
 
  *MENTOR*: NEELA SANTOSH
  
-## DESCRIPTION OF TASK 1:
-
-# Text Summarization Tool (NLP)
-
+## DESCRIPTION OF TASK 1
 A CLI-based abstractive text summarization tool built using HuggingFace Transformers and Facebook BART.
 
 ## Features
@@ -43,4 +40,5 @@ Paste article and press Enter twice.
 - Add file input support
 - Add Streamlit UI
 - Deploy to HuggingFace Spaces
+
 
