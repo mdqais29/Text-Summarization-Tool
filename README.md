@@ -11,9 +11,20 @@
  *DURATION*: 8 WEEKS
 
  *MENTOR*: NEELA SANTOSH
- 
-## DESCRIPTION OF TASK 1
-A CLI-based abstractive text summarization tool built using HuggingFace Transformers and Facebook BART.
+
+
+## Overview
+
+This project implements an AI-based text summarization system using a pretrained transformer model. The application accepts long text input and generates a concise summary using the BART large CNN model from HuggingFace Transformers.
+
+The model performs abstractive summarization, meaning it generates new sentences that capture the main idea instead of simply extracting lines from the original text.
+
+## Objective
+
+- Load a pretrained NLP model
+- Accept user text input
+- Generate meaningful summaries
+- Demonstrate transformer-based inference
 
 ## Features
 - Abstractive summarization using BART
@@ -36,9 +47,6 @@ python main.py
 
 Paste article and press Enter twice.
 
-## Future Improvements
-- Add file input support
-- Add Streamlit UI
-- Deploy to HuggingFace Spaces
+## OUTPUT
 
-
+<img width="1317" height="634" alt="Image" src="https://github.com/user-attachments/assets/12249b35-0e5b-4e73-990f-a69eac183726" />
